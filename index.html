@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Angle Clock: Pure JS/Pure CSS</title>
+  <link href="https://fonts.googleapis.com/css?family=Monoton|Shrikhand" rel="stylesheet">
+  
+  
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+
+  
+<section>
+  <div id = "clock">
+    <div class = "row single"><h1>12</h1></div>
+    <div id = "double1Top" class = "row double1"><h1>11</h1><h1>1</h1></div>
+    <div id = "double2Top" class = "row double2"><h1>10</h1><h1>2</h1></div>
+    <div class = "row double3">
+      <h1>9</h1>
+      <div class = "hand" id = "secondHand"></div>
+      <div class = "hand" id = "minuteHand"></div>
+      <div class = "hand" id = "hourHand"></div>
+      <h1>3</h1>
+    </div>
+    <div id = "double2Bottom"class = "row double2"><h1>8</h1><h1>4</h1></div>
+    <div id = "double1Bottom"class = "row double1"><h1>7</h1><h1>5</h1></div>
+    <div class = "row single"><h1>6</h1></div>
+  </div>
+</section>  
+
+<div class = "display-box">
+  <h2 id = "display-msDiff"></h2>
+  <h2 id = "display-mHDiff"></h2>
+</div>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js'></script>
+
+  
+
+    <script  src="js/index.js"></script>
+
+
+
+
+</body>
+
+</html>
