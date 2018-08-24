@@ -1,5 +1,5 @@
  # Colorful Analog Trigonometry Clock
-Hosted Here: https://codepen.io/jnavarr56/full/JBZNVW/
+Hosted Here: https://codepen.io/jnavarr56/pen/JBZNVW
 
 [![Image from Gyazo](https://i.gyazo.com/910fb515ecc07153f64437532e1eef62.gif)](https://gyazo.com/910fb515ecc07153f64437532e1eef62)
 
